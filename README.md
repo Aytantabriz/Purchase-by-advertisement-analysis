@@ -1,5 +1,5 @@
 # Purchase-by-advertisement-analysis
-Classification modelling
+Binary classification modelling
 
 ## About the project
 Classification task is about to determine purchase based on *gender, age* and *salary* features. During the project, we need to determine whether the person that saw advertisement will buy product or not.
@@ -19,3 +19,7 @@ naive_bayes   |  0.87
 decision_tree  |   0.83
 random_forest  |   0.88
 
+## How model performs in training data
+https://github.com/Aytantabriz/Purchase-by-advertisement-analysis/blob/main/Kernel%20svm.png
+
+![How model performs in training data](https://github.com/Aytantabriz/Purchase-by-advertisement-analysis/blob/main/Kernel%20svm.png?raw=true "Kernel SVM")
