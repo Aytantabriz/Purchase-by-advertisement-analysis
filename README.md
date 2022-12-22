@@ -1,5 +1,5 @@
 # Purchase-by-advertisement-analysis
-Binary classification modelling
+Binary classification modelling - tree-based algorithms
 
 ## About the project
 Classification task is about to determine purchase based on *gender, age* and *salary* features. During the project, we need to determine whether the person that saw advertisement will buy product or not.
